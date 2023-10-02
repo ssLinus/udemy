@@ -8,7 +8,7 @@ public class Rotator : MonoBehaviour
 
     public void Update()
     {
-        if (PlayerController.deadFlag == false)
+        if (BulletSpawner.deadFlag == false)
         {
             transform.Rotate(0f, rotationSpeed * Time.deltaTime, 0f);
         }

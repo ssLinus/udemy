@@ -18,11 +18,7 @@ public class Bullet_2 : Bullet_Base
 
     void Update()
     {
-        if (GameManager.isGameover == true)
-        {
-            return;
-        }
-        else
+        if (GameManager.isGameover == false)
         {
             target = FindObjectOfType<PlayerController>().transform;
             transform.LookAt(target);

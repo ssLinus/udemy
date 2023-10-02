@@ -365,7 +365,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 107,
       "PayloadLength": 21,
-      "PayloadDebugContentSnippet": "C:\\Project Camp\\Dodge",
+      "PayloadDebugContentSnippet": "C:\\Github\\udemy\\Dodge",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/UnityEngine.TestRunner.UnityAdditionalFile.txt"
@@ -391,7 +391,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 45200,
       "PayloadLength": 34,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Project Camp\\Dodg",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\udemy\\Dodg",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/UnityEngine.TestRunner.rsp2"
@@ -2444,7 +2444,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 52854,
       "PayloadLength": 21,
-      "PayloadDebugContentSnippet": "C:\\Project Camp\\Dodge",
+      "PayloadDebugContentSnippet": "C:\\Github\\udemy\\Dodge",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.UnityAdditionalFile.txt"
@@ -2470,7 +2470,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 92444,
       "PayloadLength": 34,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Project Camp\\Dodg",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\udemy\\Dodg",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.rsp2"
@@ -3127,7 +3127,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 100636,
       "PayloadLength": 21,
-      "PayloadDebugContentSnippet": "C:\\Project Camp\\Dodge",
+      "PayloadDebugContentSnippet": "C:\\Github\\udemy\\Dodge",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/UnityEditor.TestRunner.UnityAdditionalFile.txt"
@@ -3153,7 +3153,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 152199,
       "PayloadLength": 34,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Project Camp\\Dodg",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\udemy\\Dodg",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/UnityEditor.TestRunner.rsp2"
@@ -3875,7 +3875,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 160290,
       "PayloadLength": 21,
-      "PayloadDebugContentSnippet": "C:\\Project Camp\\Dodge",
+      "PayloadDebugContentSnippet": "C:\\Github\\udemy\\Dodge",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/UnityEditor.UI.UnityAdditionalFile.txt"
@@ -3901,7 +3901,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 197335,
       "PayloadLength": 34,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Project Camp\\Dodg",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\udemy\\Dodg",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/UnityEditor.UI.rsp2"
@@ -4484,7 +4484,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 206131,
       "PayloadLength": 21,
-      "PayloadDebugContentSnippet": "C:\\Project Camp\\Dodge",
+      "PayloadDebugContentSnippet": "C:\\Github\\udemy\\Dodge",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.EditorCoroutines.Editor.UnityAdditionalFile.txt"
@@ -4510,7 +4510,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 240625,
       "PayloadLength": 34,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Project Camp\\Dodg",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\udemy\\Dodg",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.EditorCoroutines.Editor.rsp2"
@@ -5046,7 +5046,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 249524,
       "PayloadLength": 21,
-      "PayloadDebugContentSnippet": "C:\\Project Camp\\Dodge",
+      "PayloadDebugContentSnippet": "C:\\Github\\udemy\\Dodge",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.UnityAdditionalFile.txt"
@@ -5072,7 +5072,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 286815,
       "PayloadLength": 34,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Project Camp\\Dodg",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\udemy\\Dodg",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.rsp2"
@@ -5619,7 +5619,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 295708,
       "PayloadLength": 21,
-      "PayloadDebugContentSnippet": "C:\\Project Camp\\Dodge",
+      "PayloadDebugContentSnippet": "C:\\Github\\udemy\\Dodge",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.PlasticSCM.Editor.UnityAdditionalFile.txt"
@@ -5645,7 +5645,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 360161,
       "PayloadLength": 34,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Project Camp\\Dodg",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\udemy\\Dodg",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.PlasticSCM.Editor.rsp2"
@@ -6433,7 +6433,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 368580,
       "PayloadLength": 21,
-      "PayloadDebugContentSnippet": "C:\\Project Camp\\Dodge",
+      "PayloadDebugContentSnippet": "C:\\Github\\udemy\\Dodge",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.Rider.Editor.UnityAdditionalFile.txt"
@@ -6459,7 +6459,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 405249,
       "PayloadLength": 34,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Project Camp\\Dodg",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\udemy\\Dodg",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.Rider.Editor.rsp2"
@@ -6991,7 +6991,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 413579,
       "PayloadLength": 21,
-      "PayloadDebugContentSnippet": "C:\\Project Camp\\Dodge",
+      "PayloadDebugContentSnippet": "C:\\Github\\udemy\\Dodge",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.Settings.Editor.UnityAdditionalFile.txt"
@@ -7017,7 +7017,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 448773,
       "PayloadLength": 34,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Project Camp\\Dodg",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\udemy\\Dodg",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.Settings.Editor.rsp2"
@@ -7544,7 +7544,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 457674,
       "PayloadLength": 21,
-      "PayloadDebugContentSnippet": "C:\\Project Camp\\Dodge",
+      "PayloadDebugContentSnippet": "C:\\Github\\udemy\\Dodge",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.UnityAdditionalFile.txt"
@@ -7570,7 +7570,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 493689,
       "PayloadLength": 34,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Project Camp\\Dodg",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\udemy\\Dodg",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp2"
@@ -8099,7 +8099,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 502630,
       "PayloadLength": 21,
-      "PayloadDebugContentSnippet": "C:\\Project Camp\\Dodge",
+      "PayloadDebugContentSnippet": "C:\\Github\\udemy\\Dodge",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.UnityAdditionalFile.txt"
@@ -8125,7 +8125,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 537438,
       "PayloadLength": 34,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Project Camp\\Dodg",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\udemy\\Dodg",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp2"
@@ -8643,7 +8643,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 546345,
       "PayloadLength": 21,
-      "PayloadDebugContentSnippet": "C:\\Project Camp\\Dodge",
+      "PayloadDebugContentSnippet": "C:\\Github\\udemy\\Dodge",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.TextMeshPro.UnityAdditionalFile.txt"
@@ -8669,7 +8669,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 584029,
       "PayloadLength": 34,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Project Camp\\Dodg",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\udemy\\Dodg",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.TextMeshPro.rsp2"
@@ -9218,7 +9218,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 592368,
       "PayloadLength": 21,
-      "PayloadDebugContentSnippet": "C:\\Project Camp\\Dodge",
+      "PayloadDebugContentSnippet": "C:\\Github\\udemy\\Dodge",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.Timeline.UnityAdditionalFile.txt"
@@ -9244,7 +9244,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 631130,
       "PayloadLength": 34,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Project Camp\\Dodg",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\udemy\\Dodg",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.Timeline.rsp2"
@@ -9807,7 +9807,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 639471,
       "PayloadLength": 21,
-      "PayloadDebugContentSnippet": "C:\\Project Camp\\Dodge",
+      "PayloadDebugContentSnippet": "C:\\Github\\udemy\\Dodge",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.VSCode.Editor.UnityAdditionalFile.txt"
@@ -9833,7 +9833,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 674310,
       "PayloadLength": 34,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Project Camp\\Dodg",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\udemy\\Dodg",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.VSCode.Editor.rsp2"
@@ -10355,7 +10355,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 683184,
       "PayloadLength": 21,
-      "PayloadDebugContentSnippet": "C:\\Project Camp\\Dodge",
+      "PayloadDebugContentSnippet": "C:\\Github\\udemy\\Dodge",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.Core.UnityAdditionalFile.txt"
@@ -10381,7 +10381,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 769692,
       "PayloadLength": 34,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Project Camp\\Dodg",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\udemy\\Dodg",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.Core.rsp2"
@@ -11299,7 +11299,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 778051,
       "PayloadLength": 21,
-      "PayloadDebugContentSnippet": "C:\\Project Camp\\Dodge",
+      "PayloadDebugContentSnippet": "C:\\Github\\udemy\\Dodge",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.VisualStudio.Editor.UnityAdditionalFile.txt"
@@ -11325,7 +11325,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 814610,
       "PayloadLength": 34,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Project Camp\\Dodg",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\udemy\\Dodg",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.VisualStudio.Editor.rsp2"
@@ -11858,7 +11858,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 822950,
       "PayloadLength": 21,
-      "PayloadDebugContentSnippet": "C:\\Project Camp\\Dodge",
+      "PayloadDebugContentSnippet": "C:\\Github\\udemy\\Dodge",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.CollabProxy.Editor.UnityAdditionalFile.txt"
@@ -11884,7 +11884,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 857229,
       "PayloadLength": 34,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Project Camp\\Dodg",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\udemy\\Dodg",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.CollabProxy.Editor.rsp2"
@@ -12421,7 +12421,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 866202,
       "PayloadLength": 21,
-      "PayloadDebugContentSnippet": "C:\\Project Camp\\Dodge",
+      "PayloadDebugContentSnippet": "C:\\Github\\udemy\\Dodge",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.TestTools.CodeCoverage.Editor.UnityAdditionalFile.txt"
@@ -12447,7 +12447,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 904751,
       "PayloadLength": 34,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Project Camp\\Dodg",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\udemy\\Dodg",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.TestTools.CodeCoverage.Editor.rsp2"
@@ -13056,7 +13056,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 913420,
       "PayloadLength": 21,
-      "PayloadDebugContentSnippet": "C:\\Project Camp\\Dodge",
+      "PayloadDebugContentSnippet": "C:\\Github\\udemy\\Dodge",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.TextMeshPro.Editor.UnityAdditionalFile.txt"
@@ -13082,7 +13082,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 952063,
       "PayloadLength": 34,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Project Camp\\Dodg",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\udemy\\Dodg",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.TextMeshPro.Editor.rsp2"
@@ -13666,7 +13666,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 961016,
       "PayloadLength": 21,
-      "PayloadDebugContentSnippet": "C:\\Project Camp\\Dodge",
+      "PayloadDebugContentSnippet": "C:\\Github\\udemy\\Dodge",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.Timeline.Editor.UnityAdditionalFile.txt"
@@ -13692,7 +13692,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1019493,
       "PayloadLength": 34,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Project Camp\\Dodg",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\udemy\\Dodg",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.Timeline.Editor.rsp2"
@@ -14500,7 +14500,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1028452,
       "PayloadLength": 21,
-      "PayloadDebugContentSnippet": "C:\\Project Camp\\Dodge",
+      "PayloadDebugContentSnippet": "C:\\Github\\udemy\\Dodge",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.Core.Editor.UnityAdditionalFile.txt"
@@ -14526,7 +14526,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1119618,
       "PayloadLength": 34,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Project Camp\\Dodg",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\udemy\\Dodg",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.Core.Editor.rsp2"
@@ -15532,7 +15532,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1128594,
       "PayloadLength": 21,
-      "PayloadDebugContentSnippet": "C:\\Project Camp\\Dodge",
+      "PayloadDebugContentSnippet": "C:\\Github\\udemy\\Dodge",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.Flow.UnityAdditionalFile.txt"
@@ -15558,7 +15558,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1210512,
       "PayloadLength": 34,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Project Camp\\Dodg",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\udemy\\Dodg",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.Flow.rsp2"
@@ -16454,7 +16454,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1218967,
       "PayloadLength": 21,
-      "PayloadDebugContentSnippet": "C:\\Project Camp\\Dodge",
+      "PayloadDebugContentSnippet": "C:\\Github\\udemy\\Dodge",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.Flow.Editor.UnityAdditionalFile.txt"
@@ -16480,7 +16480,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1273692,
       "PayloadLength": 34,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Project Camp\\Dodg",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\udemy\\Dodg",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.Flow.Editor.rsp2"
@@ -17211,7 +17211,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1282852,
       "PayloadLength": 21,
-      "PayloadDebugContentSnippet": "C:\\Project Camp\\Dodge",
+      "PayloadDebugContentSnippet": "C:\\Github\\udemy\\Dodge",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.State.UnityAdditionalFile.txt"
@@ -17237,7 +17237,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1318776,
       "PayloadLength": 34,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Project Camp\\Dodg",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\udemy\\Dodg",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.State.rsp2"
@@ -17766,7 +17766,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1327332,
       "PayloadLength": 21,
-      "PayloadDebugContentSnippet": "C:\\Project Camp\\Dodge",
+      "PayloadDebugContentSnippet": "C:\\Github\\udemy\\Dodge",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.UnityAdditionalFile.txt"
@@ -17792,7 +17792,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1363129,
       "PayloadLength": 34,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Project Camp\\Dodg",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\udemy\\Dodg",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.rsp2"
@@ -18372,7 +18372,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1372492,
       "PayloadLength": 21,
-      "PayloadDebugContentSnippet": "C:\\Project Camp\\Dodge",
+      "PayloadDebugContentSnippet": "C:\\Github\\udemy\\Dodge",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.State.Editor.UnityAdditionalFile.txt"
@@ -18398,7 +18398,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1415094,
       "PayloadLength": 34,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Project Camp\\Dodg",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\udemy\\Dodg",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.State.Editor.rsp2"
@@ -19000,7 +19000,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1424447,
       "PayloadLength": 21,
-      "PayloadDebugContentSnippet": "C:\\Project Camp\\Dodge",
+      "PayloadDebugContentSnippet": "C:\\Github\\udemy\\Dodge",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.Shared.Editor.UnityAdditionalFile.txt"
@@ -19026,7 +19026,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1459197,
       "PayloadLength": 34,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Project Camp\\Dodg",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Github\\udemy\\Dodg",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Unity.VisualScripting.Shared.Editor.rsp2"
@@ -19583,7 +19583,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1468627,
       "PayloadLength": 21,
-      "PayloadDebugContentSnippet": "C:\\Project Camp\\Dodge",
+      "PayloadDebugContentSnippet": "C:\\Github\\udemy\\Dodge",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp.UnityAdditionalFile.txt"
@@ -21180,7 +21180,7 @@
     {
       "Annotation": "BuildPlayerDataGenerator Library/BuildPlayerData/Editor/TypeDb-All.json",
       "DisplayName": "BuildPlayerDataGenerator TypeDb-All",
-      "Action": "\"C:/Program Files/Unity/Hub/Editor/2022.3.8f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.8f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"C:\\Project Camp\\Dodge\\Library\\ScriptAssemblies\\Assembly-CSharp.dll\" -a=\"C:\\Project Camp\\Dodge\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"C:\\Project Camp\\Dodge\\Library\\ScriptAssemblies\\Unity.Timeline.dll\" -a=\"C:\\Project Camp\\Dodge\\Library\\ScriptAssemblies\\Unity.VisualScripting.Core.dll\" -a=\"C:\\Project Camp\\Dodge\\Library\\ScriptAssemblies\\Unity.VisualScripting.Flow.dll\" -a=\"C:\\Project Camp\\Dodge\\Library\\ScriptAssemblies\\Unity.VisualScripting.State.dll\" -a=\"C:\\Project Camp\\Dodge\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"C:\\Project Camp\\Dodge\\Library\\ScriptAssemblies\\UnityEngine.UI.dll\" -a=\"C:\\Project Camp\\Dodge\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\\nunit.framework.dll\" -a=\"C:\\Project Camp\\Dodge\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.4\\lib\\ReportGenerator\\ReportGeneratorMerged.dll\" -a=\"C:\\Project Camp\\Dodge\\Library\\PackageCache\\com.unity.visualscripting@1.9.0\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.8f1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.8f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netfx\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.8f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netstandard\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.8f1\\Editor\\Data\\NetStandard\\Extensions\\2.0.0\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.8f1\\Editor\\Data\\NetStandard\\ref\\2.1.0\" -s=\"C:\\Project Camp\\Dodge\\Library\\ScriptAssemblies\" -s=\"C:\\Project Camp\\Dodge\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\" -s=\"C:\\Project Camp\\Dodge\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.4\\lib\\ReportGenerator\" -s=\"C:\\Project Camp\\Dodge\\Library\\PackageCache\\com.unity.visualscripting@1.9.0\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
+      "Action": "\"C:/Program Files/Unity/Hub/Editor/2022.3.8f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.8f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"C:\\Github\\udemy\\Dodge\\Library\\ScriptAssemblies\\Assembly-CSharp.dll\" -a=\"C:\\Github\\udemy\\Dodge\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"C:\\Github\\udemy\\Dodge\\Library\\ScriptAssemblies\\Unity.Timeline.dll\" -a=\"C:\\Github\\udemy\\Dodge\\Library\\ScriptAssemblies\\Unity.VisualScripting.Core.dll\" -a=\"C:\\Github\\udemy\\Dodge\\Library\\ScriptAssemblies\\Unity.VisualScripting.Flow.dll\" -a=\"C:\\Github\\udemy\\Dodge\\Library\\ScriptAssemblies\\Unity.VisualScripting.State.dll\" -a=\"C:\\Github\\udemy\\Dodge\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"C:\\Github\\udemy\\Dodge\\Library\\ScriptAssemblies\\UnityEngine.UI.dll\" -a=\"C:\\Github\\udemy\\Dodge\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\\nunit.framework.dll\" -a=\"C:\\Github\\udemy\\Dodge\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.4\\lib\\ReportGenerator\\ReportGeneratorMerged.dll\" -a=\"C:\\Github\\udemy\\Dodge\\Library\\PackageCache\\com.unity.visualscripting@1.9.0\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.8f1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.8f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netfx\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.8f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netstandard\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.8f1\\Editor\\Data\\NetStandard\\Extensions\\2.0.0\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.8f1\\Editor\\Data\\NetStandard\\ref\\2.1.0\" -s=\"C:\\Github\\udemy\\Dodge\\Library\\ScriptAssemblies\" -s=\"C:\\Github\\udemy\\Dodge\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\" -s=\"C:\\Github\\udemy\\Dodge\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.4\\lib\\ReportGenerator\" -s=\"C:\\Github\\udemy\\Dodge\\Library\\PackageCache\\com.unity.visualscripting@1.9.0\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
       "Inputs": [
         "C:/Program Files/Unity/Hub/Editor/2022.3.8f1/Editor/Data/Tools/netcorerun/netcorerun.exe",
         "C:/Program Files/Unity/Hub/Editor/2022.3.8f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe",
@@ -21466,6 +21466,6 @@
   "SharedResources": [],
   "Scanners": [],
   "Identifier": "Library/Bee/1300b0aE.dag.json",
-  "PayloadsFile": "C:/Project Camp/Dodge/Library/Bee/1300b0aE.dag.payloads",
+  "PayloadsFile": "C:/Github/udemy/Dodge/Library/Bee/1300b0aE.dag.payloads",
   "RelativePathToRoot": "../.."
 }

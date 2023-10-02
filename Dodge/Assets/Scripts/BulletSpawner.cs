@@ -12,17 +12,20 @@ public class BulletSpawner : MonoBehaviour
     private float spawnRate;
     private float timeAfterSpawn;
 
+    private bool isdeadFlag = false;
+    public static bool deadFlag;
+
     void Start()
     {
         timeAfterSpawn = 0f;
         spawnRate = Random.Range(spawnRateMin, spawnRateMax);
         target = FindObjectOfType<PlayerController>().transform;
+        deadFlag = isdeadFlag;
     }
-
 
     public void Update()
     {
-        if (PlayerController.deadFlag == false)
+        if (deadFlag == false)
         {
             timeAfterSpawn += Time.deltaTime;
 

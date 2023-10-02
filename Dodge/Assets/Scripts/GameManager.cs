@@ -41,7 +41,7 @@ public class GameManager : MonoBehaviour
 
     public void LifeCheck()
     {
-        life[PlayerController.hitCount].gameObject.SetActive(false);
+        life[Bullet_Base.hitCount].gameObject.SetActive(false);
     }
 
     public void EndGame()

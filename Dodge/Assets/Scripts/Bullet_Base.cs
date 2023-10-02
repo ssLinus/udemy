@@ -4,6 +4,14 @@ using UnityEngine;
 
 public class Bullet_Base : MonoBehaviour
 {
+    private int hit = 0;
+    public static int hitCount;
+
+    void Start()
+    {
+        hitCount = hit;
+    }
+
     private void OnTriggerEnter(Collider other)
     {
         if (other.tag == "Player")
@@ -17,9 +25,9 @@ public class Bullet_Base : MonoBehaviour
                 GameManager gameManager = FindObjectOfType<GameManager>();
                 gameManager.LifeCheck();
 
-                PlayerController.hitCount++;
+                hitCount++;
 
-                if (PlayerController.hitCount == 3)
+                if (hitCount == 3)
                 {
                     playerController.Die();
                 }

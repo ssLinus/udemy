@@ -7,16 +7,8 @@ public class PlayerController : MonoBehaviour
     private Rigidbody playerRigidbody;
     public float speed = 8f;
 
-    private bool isdeadFlag = false;
-    public static bool deadFlag;
-
-    private int hit = 0;
-    public static int hitCount;
-
     void Start()
     {
-        deadFlag = isdeadFlag;
-        hitCount = hit;
         playerRigidbody = GetComponent<Rigidbody>();
     }
 
@@ -33,7 +25,6 @@ public class PlayerController : MonoBehaviour
         playerRigidbody.velocity = newVelocity;
     }
 
-
     public void Die()
     {
         gameObject.SetActive(false);
@@ -41,6 +32,6 @@ public class PlayerController : MonoBehaviour
         GameManager gameManager = FindObjectOfType<GameManager>();
         gameManager.EndGame();
 
-        deadFlag = true;
+        BulletSpawner.deadFlag = true;
     }
 }
